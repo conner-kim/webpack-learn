@@ -1,4 +1,12 @@
+@font-face {
+  font-family: 'D2Coding';
+  src: url('./D2Coding.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
 .hello {
+  font-family: 'D2Coding';
   color: blue;
   background-image: url('./20x20img.png');
   background-size: contain;
