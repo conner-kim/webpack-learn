@@ -1,3 +1,7 @@
 .hello {
+  width: 100vh;
+  height: 100vh;
   color: red;
+  background-image: url('./20x20img.png');
+  background-size: 150px;
 }
